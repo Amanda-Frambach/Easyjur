@@ -2,7 +2,7 @@
 
 É um projeto solicitado com foco em testes de automação de login e crud em site e areas especificas fornecidas pela solicitante.
 
-Os projetos manteram os mesmos nomes para que seja de facil localização no Guthub e no Gitlab, então ao acessar deve clonar o projeto pelog gitlab,
+Os projetos manteram os mesmos nomes EasyJur para que seja de facil localização no Guthub e no Gitlab, então ao acessar deve clonar o projeto pelog gitlab,
 Importante ressaltar que não utilizaremos actions,
 Para utilizar esse projeto deve-se realizar a configuração abaixo:
 
