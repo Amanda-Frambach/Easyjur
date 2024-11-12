@@ -8,7 +8,7 @@ Para utilizar esse projeto deve-se realizar a configuração abaixo:
 
 Tecnologias utilizadas e suas configurações:
 
-Cypress com linguaguem javascrip e formato de page object para os testes de web
+Visual Code Studio, Nodejs,Cypress com linguaguem javascrip e formato de page object para os testes de web
     extensoes utilizadas no projeto: Material Icon, Dark One Pro e git graph:
 
 1.Instalar Visual code studio;
