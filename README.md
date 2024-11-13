@@ -81,6 +81,7 @@ Copiar código
   "lint": "eslint ."
 }
 
+Assim o projeto estará com a configuração basica para funcionar.
 5. Executar o ESLint
 Agora, você pode rodar o ESLint para verificar seu código:
 npm run lint
