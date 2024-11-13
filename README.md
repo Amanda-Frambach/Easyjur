@@ -82,12 +82,3 @@ Copiar código
 }
 
 Assim o projeto estará com a configuração basica para funcionar.
-5. Executar o ESLint
-Agora, você pode rodar o ESLint para verificar seu código:
-npm run lint
-
-O ESLint analisará o código no diretório atual e reportará problemas de acordo com as regras definidas na configuração.
-
-7.  Corrigir Problemas Automaticamente
-Para corrigir automaticamente problemas de formatação e alguns erros, você pode usar o flag --fix:
-npx eslint . --fix
